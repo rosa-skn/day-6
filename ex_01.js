@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function()
         lastName: "Bond",
         firstName: "James",
         code: "007",
-        age: "53"
+        age: "57"
 };
     
 displayAgentInfo (agent);
